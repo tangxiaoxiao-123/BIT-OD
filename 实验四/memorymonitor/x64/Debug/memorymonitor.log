@@ -1,0 +1,8 @@
+﻿  源.cpp
+C:\Users\15827\source\repos\memorymonitor\源.cpp(162,17): warning C4311: “类型强制转换”: 从“LPVOID”到“DWORD”的指针截断
+C:\Users\15827\source\repos\memorymonitor\源.cpp(162,17): warning C4302: “类型强制转换”: 从“LPVOID”到“DWORD”截断
+C:\Users\15827\source\repos\memorymonitor\源.cpp(163,49): warning C4311: “类型强制转换”: 从“LPVOID”到“DWORD”的指针截断
+C:\Users\15827\source\repos\memorymonitor\源.cpp(163,49): warning C4302: “类型强制转换”: 从“LPVOID”到“DWORD”截断
+C:\Users\15827\source\repos\memorymonitor\源.cpp(217,37): error C2280: “std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const wchar_t *)”: 尝试引用已删除的函数
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\include\ostream(938): message : 参见“std::operator <<”的声明
+C:\Users\15827\source\repos\memorymonitor\源.cpp(217,37): error C2088: “<<”: 对于 class 非法

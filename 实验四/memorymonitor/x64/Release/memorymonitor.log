@@ -1,0 +1,11 @@
+﻿  源.cpp
+D:\study\os课设\OS课设BIT\实验四\memorymonitor\源.cpp(162,20): warning C4477: “printf”: 格式字符串“%08x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“LPVOID”
+D:\study\os课设\OS课设BIT\实验四\memorymonitor\源.cpp(162,20): warning C4313: “printf”: 格式字符串中的“%x”与“LPVOID”类型的参数 1 冲突
+D:\study\os课设\OS课设BIT\实验四\memorymonitor\源.cpp(162,20): warning C4477: “printf”: 格式字符串“%08x”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“LPVOID”
+D:\study\os课设\OS课设BIT\实验四\memorymonitor\源.cpp(162,20): warning C4313: “printf”: 格式字符串中的“%x”与“LPVOID”类型的参数 2 冲突
+  正在生成代码
+  18 of 20 functions (90.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  memorymonitor.vcxproj -> D:\study\os课设\OS课设BIT\实验四\memorymonitor\x64\Release\memorymonitor.exe

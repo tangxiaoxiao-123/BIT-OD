@@ -1,0 +1,2 @@
+C:\Users\15827\source\repos\memorymonitor\x64\Release\memorymonitor.exe
+D:\study\os课设\OS课设BIT\实验四\memorymonitor\x64\Release\memorymonitor.exe
